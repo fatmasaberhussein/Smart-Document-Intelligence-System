@@ -1,0 +1,3 @@
+Artificial intelligence is changing the world.
+Python helps developers build AI applications.
+AI can analyze large amounts of data.
